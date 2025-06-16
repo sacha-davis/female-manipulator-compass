@@ -25,7 +25,7 @@ python main.py --folder_path_to_jsons "Spotify Extended Streaming History" --sta
 ## Outputs
 A number of items will be printed in the terminal, including:
 - The total number of songs you have listened to (defined as songs in your listening history where `Skipped=False`) in the specified date range
-- The total number of female manipulator songs you have listened to (defined as non-skipped songs primarily attributed to an arist present in this compass)
+- The total number of female manipulator songs you have listened to (defined as non-skipped songs primarily attributed to an artist present in this compass)
 - The number of times you have listened to each of these artists in the specified date range
 - Your coordinates on the compass (calculated as the coordinate average of each of the artists, weighted by play count)
 - The number of times you have listened to artists in each of the quadrants
