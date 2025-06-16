@@ -2,7 +2,7 @@
 
 We have all wanted to know what kind of female manipulator we are according to our music taste. This repository uses the following rigorously researched quadrant system to pinpoint your manipulative tendencies according to your indie vs. mainstream tendencies (X axis) and your propensity to be ruinous vs. virtuous (Y axis). 
 
-![Female Manipulator Musical Compass](compass.jpg)
+<img src="compass.jpg" width="600" alt="Female Manipulator Musical Compass">
 
 
 ## Steps to Use
@@ -32,7 +32,8 @@ A number of items will be printed in the terminal, including:
 
 Running the script will also save:
 - `compass_with_dot.png` - your listening coordinates plotted on the original compass image so you can share with your friends. Example output:
-![Your Female Manipulator Musical Coordinates](example_compass_with_dot.png)
+
+<img src="example_compass_with_dot.png" width="600" alt="Your Female Manipulator Musical Coordinates">
 
 - `artist_frequencies.csv` - the counts of all arists (female manipulator and non-female manipulator) calculated over the specified date range. 
 
